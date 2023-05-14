@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: DIGO OTA Provider Home Assistant add-on repository
+url: 'https://github.com/vinhpn96/digo_ota_provider_addons'
+maintainer: Vinh Phan <phanngocvinh96@gmail.com>
