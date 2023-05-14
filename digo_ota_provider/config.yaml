@@ -1,5 +1,5 @@
 ---
-version: 2.0.2
+version: 3.0.1
 slug: digo_ota_provider
 name: DIGO OTA Provider
 description: DIGO OTA Provider for supporting OTA DIGO devices on Home Assistant.

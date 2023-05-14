@@ -9,7 +9,9 @@ RUN \
     set -x \
     && apt-get update \
     && apt-get install -y --no-install-recommends \
-        libglib2.0-dev
+        libglib2.0-dev \
+        apt install python3-pip \
+    && pip3 install "python-matter-server"
 
 COPY scripts /root
 COPY chip-ota-provider-app /root
